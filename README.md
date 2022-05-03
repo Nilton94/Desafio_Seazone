@@ -7,6 +7,6 @@ O desafio consiste em analisar os dados de ocupação e preço de anúncios no A
 * 1. Ordene os bairros em ordem crescente de número de listings
 * 2. Ordene os bairros em ordem crescente de faturamento médio dos listings
 * 3. Existem correlações entre as características de um anúncio e seu faturamento?
-   ** a. Quais? Explique
+   a. Quais? Explique
 * 4. Qual a antecedência média das reservas?
-   ** a. Esse número é maior ou menor para finais de semana?
+   a. Esse número é maior ou menor para finais de semana?
